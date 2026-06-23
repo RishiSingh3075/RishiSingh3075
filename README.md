@@ -23,12 +23,12 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,cpp,c" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,cpp,c,java" alt="Languages" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
   </a>
 </p>
 <p align="center">
@@ -38,7 +38,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,grafana" alt="Infrastructure & Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,bash,git" alt="Infrastructure & Tools" />
   </a>
 </p>
 <br />
